@@ -40,7 +40,8 @@ Traditional tools for the visually impaired often lack real-time feedback and sp
 
 | Home Interface | Video Mode | Picture Mode |
 |----------------|------------|---------------|
-| ![Home](assets/screenshots/home.png) | ![Video](assets/screenshots/video.png) | ![Capture](assets/screenshots/capture.png) |
+| [splash](https://github.com/user-attachments/assets/1f88d04f-5614-4d67-806c-f035966c8dbd)
+hots/home.png) | ![Video](assets/screenshots/video.png) | ![Capture](assets/screenshots/capture.png) |
 
 
 ---
